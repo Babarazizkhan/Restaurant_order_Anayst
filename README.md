@@ -1,4 +1,4 @@
-  # Restaurant_order_Anayst
+  # Restaurant_order_Analyst 
 
   # Overview
    This project focuses on analyzing the performance of the newly launched menu for the café. Using SQL queries, insights were derived from the menu_items and order_details tables to 
